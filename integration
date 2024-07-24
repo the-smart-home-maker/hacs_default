@@ -893,6 +893,7 @@
   "TheHolyRoger/hass-cryptoinfo",
   "TheRealWaldo/thermal",
   "ThermIQ/thermiq_mqtt-ha",
+  "the-smart-home-maker/hass_ollama_image_analysis",
   "thevoltagesource/LennoxiComfort",
   "thisisthetechie/home-assistant-sickgear",
   "thomasloven/hass-browser_mod",
